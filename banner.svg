@@ -1,0 +1,41 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#bg)"/>
+
+  <g stroke="#2AC3DE" stroke-width="1" opacity="0.35">
+    <line x1="600" y1="60" x2="690" y2="38"/>
+    <line x1="690" y1="38" x2="782" y2="68"/>
+    <line x1="600" y1="60" x2="642" y2="128"/>
+    <line x1="642" y1="128" x2="754" y2="150"/>
+    <line x1="754" y1="150" x2="856" y2="112"/>
+    <line x1="782" y1="68" x2="856" y2="112"/>
+    <line x1="690" y1="38" x2="782" y2="150"/>
+    <line x1="862" y1="44" x2="782" y2="68"/>
+    <line x1="862" y1="44" x2="856" y2="112"/>
+    <line x1="600" y1="60" x2="540" y2="28"/>
+    <line x1="642" y1="128" x2="562" y2="150"/>
+  </g>
+
+  <g fill="#2AC3DE">
+    <circle cx="600" cy="60" r="4"/>
+    <circle cx="690" cy="38" r="4"/>
+    <circle cx="782" cy="68" r="4"/>
+    <circle cx="642" cy="128" r="4"/>
+    <circle cx="754" cy="150" r="4"/>
+    <circle cx="856" cy="112" r="4"/>
+    <circle cx="862" cy="44" r="4"/>
+    <circle cx="540" cy="28" r="3"/>
+    <circle cx="562" cy="150" r="3"/>
+  </g>
+
+  <text x="60" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f1f5f9">kjylab</text>
+  <text x="63" y="136" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#94a3b8">Infrastructure &amp; Platform Engineer</text>
+
+  <rect x="0" y="196" width="1000" height="4" fill="#2AC3DE"/>
+</svg>
